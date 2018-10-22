@@ -18,7 +18,7 @@ Por que Ramda?
 Já existem diversas bibliotecas excelentes com um enfoque funcional. Típicamente, elas têm o objetivo de serem ferramentas de uso comum, adequadas ao trabalho em múltiplos paradigmas. Ramda é mais focado em seu objetivo. Nós queremos uma biblioteca projetada específicamente para um estilo de programação funcional, um que torne fácil canalizar funções, um que nunca altere dados do usuário.
 
 
-O que é diferente?
+Qual é a diferença?
 -----------------
 
 As características primárias do Ramba são:
